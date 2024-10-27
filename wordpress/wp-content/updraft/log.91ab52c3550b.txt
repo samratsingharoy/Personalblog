@@ -1,0 +1,455 @@
+0000.001 (0) Opened log file at time: Sun, 27 Oct 2024 10:57:37 +0000 on http://localhost/Personalblog/wordpress
+0000.005 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.6 WP: 6.6.2 PHP: 8.2.12 (apache2handler, Windows NT CHANDAN-ALAY 10.0 build 22635 (Windows 11) AMD64) MySQL: 10.4.32-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 83.5M | 86M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+0000.010 (0) Free space on disk containing Updraft's temporary directory: 33931.4 MB
+0000.018 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.029 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.062 (0) Set semaphore last lock (fd) time to 2024-10-27 10:57:37
+0000.066 (0) Semaphore lock (fd) complete
+0000.081 (0) Backup run: resumption=0, nonce=91ab52c3550b, file_nonce=91ab52c3550b begun at=1730026657 (0s ago), job type=backup
+0000.095 (0) Scheduling a resumption (1) after 300 seconds (1730026957) in case this run gets aborted
+0000.115 (0) Checking if we have a zip executable available
+0000.124 (0) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0000.128 (0) Creation of backups of directories: beginning
+0000.148 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.710 (0) Total entities for the zip file: 1517 directories, 7910 files (0 skipped as non-modified), 142.4 MB
+0002.735 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 145803.9 KB, split: 409600 KB)
+0002.803 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.854 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0002.897 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0002.933 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0002.956 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0002.987 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0003.020 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0003.064 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0003.109 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0003.146 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0003.175 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 1100 files added (on-disk size: 0 KB)
+0003.211 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 1200 files added (on-disk size: 0 KB)
+0003.238 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 1300 files added (on-disk size: 0 KB)
+0003.269 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 1400 files added (on-disk size: 0 KB)
+0003.297 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 1500 files added (on-disk size: 0 KB)
+0003.328 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 1600 files added (on-disk size: 0 KB)
+0003.354 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 1700 files added (on-disk size: 0 KB)
+0003.383 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 1800 files added (on-disk size: 0 KB)
+0003.430 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 1900 files added (on-disk size: 0 KB)
+0003.455 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 2000 files added (on-disk size: 0 KB)
+0003.484 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 2100 files added (on-disk size: 0 KB)
+0003.515 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 2200 files added (on-disk size: 0 KB)
+0003.541 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 2300 files added (on-disk size: 0 KB)
+0003.576 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 2400 files added (on-disk size: 0 KB)
+0003.609 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 2500 files added (on-disk size: 0 KB)
+0003.634 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 2600 files added (on-disk size: 0 KB)
+0003.665 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 2700 files added (on-disk size: 0 KB)
+0003.695 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 2800 files added (on-disk size: 0 KB)
+0003.738 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 2900 files added (on-disk size: 0 KB)
+0003.780 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 3000 files added (on-disk size: 0 KB)
+0003.822 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 3100 files added (on-disk size: 0 KB)
+0003.849 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 3200 files added (on-disk size: 0 KB)
+0003.882 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 3300 files added (on-disk size: 0 KB)
+0003.911 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 3400 files added (on-disk size: 0 KB)
+0003.944 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 3500 files added (on-disk size: 0 KB)
+0003.977 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 3600 files added (on-disk size: 0 KB)
+0004.004 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 3700 files added (on-disk size: 0 KB)
+0004.031 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 3800 files added (on-disk size: 0 KB)
+0004.065 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 3900 files added (on-disk size: 0 KB)
+0004.091 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 4000 files added (on-disk size: 0 KB)
+0004.119 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 4100 files added (on-disk size: 0 KB)
+0004.157 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 4200 files added (on-disk size: 0 KB)
+0004.184 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 4300 files added (on-disk size: 0 KB)
+0004.215 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 4400 files added (on-disk size: 0 KB)
+0004.250 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 4500 files added (on-disk size: 0 KB)
+0004.281 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 4600 files added (on-disk size: 0 KB)
+0004.311 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 4700 files added (on-disk size: 0 KB)
+0004.350 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 4800 files added (on-disk size: 0 KB)
+0004.388 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 4900 files added (on-disk size: 0 KB)
+0004.430 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 5000 files added (on-disk size: 0 KB)
+0004.457 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 5100 files added (on-disk size: 0 KB)
+0004.488 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 5200 files added (on-disk size: 0 KB)
+0004.528 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 5300 files added (on-disk size: 0 KB)
+0004.561 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 5400 files added (on-disk size: 0 KB)
+0004.595 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 5500 files added (on-disk size: 0 KB)
+0004.634 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 5600 files added (on-disk size: 0 KB)
+0004.662 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 5700 files added (on-disk size: 0 KB)
+0004.698 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 5800 files added (on-disk size: 0 KB)
+0004.724 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 5900 files added (on-disk size: 0 KB)
+0004.784 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 6000 files added (on-disk size: 0 KB)
+0004.887 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 6100 files added (on-disk size: 0 KB)
+0004.953 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 6200 files added (on-disk size: 0 KB)
+0004.987 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 6300 files added (on-disk size: 0 KB)
+0005.031 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 6400 files added (on-disk size: 0 KB)
+0005.060 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 6500 files added (on-disk size: 0 KB)
+0005.087 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 6600 files added (on-disk size: 0 KB)
+0005.111 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 6700 files added (on-disk size: 0 KB)
+0005.145 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 6800 files added (on-disk size: 0 KB)
+0005.186 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 6900 files added (on-disk size: 0 KB)
+0005.224 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 7000 files added (on-disk size: 0 KB)
+0005.259 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 7100 files added (on-disk size: 0 KB)
+0005.291 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 7200 files added (on-disk size: 0 KB)
+0005.326 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 7300 files added (on-disk size: 0 KB)
+0005.358 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 7400 files added (on-disk size: 0 KB)
+0005.389 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 7500 files added (on-disk size: 0 KB)
+0005.424 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 7600 files added (on-disk size: 0 KB)
+0005.458 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 7700 files added (on-disk size: 0 KB)
+0005.496 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 7800 files added (on-disk size: 0 KB)
+0005.538 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.tmp: 7900 files added (on-disk size: 0 KB)
+0287.084 (0) The time we have been running (286.1) is approaching the resumption interval (300) - increasing resumption interval to 317
+0288.039 (0) The scheduled resumption is within 45 seconds - will reschedule
+0288.069 (0) Rescheduling resumption 1: moving to 362 seconds from now (1730027307)
+0288.087 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 317 + 45 = 362
+0288.174 (0) Creating zip file manifest (backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.list-temp.tmp)
+0288.223 (0) Successfully created zip file manifest (size: 669629)
+0288.733 (0) Created plugins zip (0) - 45425.5 KB in 288.6 s (157.4 KB/s) (sha1: 94f607cf0816a04ede118fe8acb499ce77d906c5, sha256: 196e9e6b4e27287256d7e91ea396d650ff14ab514f43f7baa7eeecad81bce2e8)
+0288.756 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0288.761 (0) No remote despatch: user chose no remote backup service
+0288.767 (0) Recording as successfully uploaded: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip
+0288.778 (0) Deleting zip manifest (backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip.list.tmp)
+0288.789 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0288.794 (0) Number of backup sets in history: 2; groups (db): 1
+0288.800 (0) Examining (for databases) backup set with group_id=0, nonce=d93bfdb5d2ba, datestamp=1730026345 (Oct 27 2024 10:52:25)
+0288.809 (0) This backup set (1730026345) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0288.809 (0) Examining (for databases) backup set with group_id=0, nonce=e467513af073, datestamp=1730025931 (Oct 27 2024 10:45:31)
+0288.809 (0) This backup set (1730025931) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0288.809 (0) Number of backup sets in history: 2; groups (files): 1
+0288.815 (0) Examining (for files) backup set with nonce=d93bfdb5d2ba, datestamp=1730026345 (Oct 27 2024 10:52:25)
+0288.815 (0) This backup set (1730026345) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0288.815 (0) This backup set (1730026345) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0288.815 (0) This backup set (1730026345) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0288.815 (0) This backup set (1730026345) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0288.815 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0288.820 (0) Examining (for files) backup set with nonce=e467513af073, datestamp=1730025931 (Oct 27 2024 10:45:31)
+0288.820 (0) This backup set (1730025931) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0288.820 (0) This backup set (1730025931) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0288.820 (0) This backup set (1730025931) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0288.820 (0) This backup set (1730025931) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0288.820 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0288.820 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0288.843 (0) Beginning creation of dump of themes (split every: 400 MB)
+0289.216 (0) Total entities for the zip file: 351 directories, 1044 files (0 skipped as non-modified), 32.5 MB
+0289.219 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 33256.5 KB, split: 409600 KB)
+0289.257 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0289.300 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0289.345 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0289.378 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0289.451 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0289.482 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0289.510 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0289.537 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0289.564 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0289.588 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-themes.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0306.798 (0) Creating zip file manifest (backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-themes.zip.list-temp.tmp)
+0306.807 (0) Successfully created zip file manifest (size: 86170)
+0307.058 (0) Created themes zip (0) - 16867.5 KB in 18.2 s (926.7 KB/s) (sha1: 153753839b7d3f02a1b568719846953ea62dd15d, sha256: 8a3a9cb542b286081d7ed287f1b9e7a24463fcc8b1d751440970a68c4380a8be)
+0307.078 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0307.083 (0) No remote despatch: user chose no remote backup service
+0307.092 (0) Recording as successfully uploaded: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-themes.zip
+0307.105 (0) Deleting zip manifest (backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-themes.zip.list.tmp)
+0307.117 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0307.123 (0) Number of backup sets in history: 2; groups (db): 1
+0307.128 (0) Examining (for databases) backup set with group_id=0, nonce=d93bfdb5d2ba, datestamp=1730026345 (Oct 27 2024 10:52:25)
+0307.133 (0) This backup set (1730026345) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0307.133 (0) Examining (for databases) backup set with group_id=0, nonce=e467513af073, datestamp=1730025931 (Oct 27 2024 10:45:31)
+0307.133 (0) This backup set (1730025931) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0307.133 (0) Number of backup sets in history: 2; groups (files): 1
+0307.138 (0) Examining (for files) backup set with nonce=d93bfdb5d2ba, datestamp=1730026345 (Oct 27 2024 10:52:25)
+0307.138 (0) This backup set (1730026345) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0307.138 (0) This backup set (1730026345) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0307.138 (0) This backup set (1730026345) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0307.138 (0) This backup set (1730026345) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0307.138 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0307.143 (0) Examining (for files) backup set with nonce=e467513af073, datestamp=1730025931 (Oct 27 2024 10:45:31)
+0307.143 (0) This backup set (1730025931) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0307.143 (0) This backup set (1730025931) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0307.143 (0) This backup set (1730025931) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0307.143 (0) This backup set (1730025931) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0307.143 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0307.143 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0307.173 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0307.179 (0) Looking for candidates to backup in: C:\xampp\htdocs\Personalblog\wordpress/wp-content/uploads
+0307.184 (0) finding files: 2024: adding to list (1)
+0307.189 (0) finding files: elementor: adding to list (2)
+0307.193 (0) finding files: essential-addons-elementor: adding to list (3)
+0307.198 (0) finding files: simply-static: adding to list (4)
+0307.204 (0) finding files: wpforms: adding to list (5)
+0307.209 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0307.251 (0) Total entities for the zip file: 13 directories, 113 files (0 skipped as non-modified), 50.1 MB
+0307.256 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 51315.5 KB, split: 409600 KB)
+0307.290 (0) Zip: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0311.168 (0) Creating zip file manifest (backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-uploads.zip.list-temp.tmp)
+0311.173 (0) Successfully created zip file manifest (size: 5953)
+0311.633 (0) Created uploads zip (0) - 43403.6 KB in 4.4 s (9834 KB/s) (sha1: 5c33746ca2a4666f9e7bd1ae59e337f386df4543, sha256: 128795a8d2d44bafb6d27f522ee3c5f25b7d8ceabb9805c9dc5d65f78b679ab8)
+0311.651 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0311.656 (0) No remote despatch: user chose no remote backup service
+0311.662 (0) Recording as successfully uploaded: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-uploads.zip
+0311.675 (0) Deleting zip manifest (backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-uploads.zip.list.tmp)
+0311.686 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0311.692 (0) Number of backup sets in history: 2; groups (db): 1
+0311.697 (0) Examining (for databases) backup set with group_id=0, nonce=d93bfdb5d2ba, datestamp=1730026345 (Oct 27 2024 10:52:25)
+0311.702 (0) This backup set (1730026345) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0311.702 (0) Examining (for databases) backup set with group_id=0, nonce=e467513af073, datestamp=1730025931 (Oct 27 2024 10:45:31)
+0311.702 (0) This backup set (1730025931) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0311.702 (0) Number of backup sets in history: 2; groups (files): 1
+0311.708 (0) Examining (for files) backup set with nonce=d93bfdb5d2ba, datestamp=1730026345 (Oct 27 2024 10:52:25)
+0311.708 (0) This backup set (1730026345) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0311.708 (0) This backup set (1730026345) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0311.708 (0) This backup set (1730026345) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0311.708 (0) This backup set (1730026345) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0311.708 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0311.714 (0) Examining (for files) backup set with nonce=e467513af073, datestamp=1730025931 (Oct 27 2024 10:45:31)
+0311.714 (0) This backup set (1730025931) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0311.714 (0) This backup set (1730025931) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0311.715 (0) This backup set (1730025931) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0311.715 (0) This backup set (1730025931) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0311.715 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0311.715 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0311.735 (0) No backup of mu-plugins: excluded by user's options
+0311.745 (0) Beginning backup of other directories found in the content directory (index: 0)
+0311.750 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0311.758 (0) Looking for candidates to backup in: C:\xampp\htdocs\Personalblog\wordpress/wp-content
+0311.764 (0) finding files: index.php: adding to list (1)
+0311.768 (0) finding files: plugins: skipping: this is the plugins directory
+0311.772 (0) finding files: themes: skipping: this is the themes directory
+0311.777 (0) finding files: updraft: skipping: this is the updraft directory
+0311.781 (0) finding files: upgrade: skipping: excluded by options
+0311.785 (0) finding files: uploads: skipping: this is the uploads directory
+0311.801 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0311.805 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 0 KB, split: 409600 KB)
+0311.828 (0) Creating zip file manifest (backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-others.zip.list-temp.tmp)
+0311.833 (0) Successfully created zip file manifest (size: 43)
+0311.860 (0) Created others zip (0) - 0.1 KB in 0.1 s (2.5 KB/s) (sha1: be1a8896d9f8c13593c3f5311aad8b543cfd7c62, sha256: 08c57594839cda066ad2609996da87ad1102d24f8ecdab54f857ae960f2bf204)
+0311.878 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0311.883 (0) No remote despatch: user chose no remote backup service
+0311.888 (0) Recording as successfully uploaded: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-others.zip
+0311.898 (0) Deleting zip manifest (backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-others.zip.list.tmp)
+0311.914 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0311.921 (0) Number of backup sets in history: 2; groups (db): 1
+0311.926 (0) Examining (for databases) backup set with group_id=0, nonce=d93bfdb5d2ba, datestamp=1730026345 (Oct 27 2024 10:52:25)
+0311.926 (0) This backup set (1730026345) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0311.926 (0) Examining (for databases) backup set with group_id=0, nonce=e467513af073, datestamp=1730025931 (Oct 27 2024 10:45:31)
+0311.926 (0) This backup set (1730025931) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0311.926 (0) Number of backup sets in history: 2; groups (files): 1
+0311.931 (0) Examining (for files) backup set with nonce=d93bfdb5d2ba, datestamp=1730026345 (Oct 27 2024 10:52:25)
+0311.931 (0) This backup set (1730026345) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0311.931 (0) This backup set (1730026345) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0311.931 (0) This backup set (1730026345) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0311.932 (0) This backup set (1730026345) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0311.932 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0311.937 (0) Examining (for files) backup set with nonce=e467513af073, datestamp=1730025931 (Oct 27 2024 10:45:31)
+0311.937 (0) This backup set (1730025931) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0311.937 (0) This backup set (1730025931) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0311.937 (0) This backup set (1730025931) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0311.937 (0) This backup set (1730025931) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0311.937 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0311.937 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0311.993 (0) Saving backup status to database (elements: 8)
+0312.015 (0) Beginning creation of database dump (WordPress DB)
+0312.025 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0312.165 (0) Table blog_options: Total expected rows (via COUNT): 393
+0312.171 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0312.275 (0) Table blog_options: Rows added in this batch (next record: 1207): 389 (uncompressed bytes in this segment=3516202) in 0.18 seconds
+0312.297 (0) Table blog_options: finishing file(s) (2, 528.1 KB)
+0312.331 (0) Table blog_users: Total expected rows (via COUNT): 1
+0312.336 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0312.349 (0) Table blog_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1200) in 0.04 seconds
+0312.368 (0) Table blog_users: finishing file(s) (2, 0.6 KB)
+0312.402 (0) Table blog_usermeta: Total expected rows (via COUNT): 33
+0312.408 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0312.418 (0) Table blog_usermeta: Rows added in this batch (next record: 35): 33 (uncompressed bytes in this segment=4168) in 0.04 seconds
+0312.443 (0) Table blog_usermeta: finishing file(s) (2, 1.9 KB)
+0312.477 (0) Table blog_actionscheduler_actions: Total expected rows (via COUNT): 14
+0312.482 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0312.498 (0) Table blog_actionscheduler_actions: Rows added in this batch (next record: 24): 14 (uncompressed bytes in this segment=8112) in 0.04 seconds
+0312.522 (0) Table blog_actionscheduler_actions: finishing file(s) (2, 1.4 KB)
+0312.547 (0) Table blog_actionscheduler_claims: Total expected rows (via COUNT): 0
+0312.563 (0) Table blog_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=637) in 0.03 seconds
+0312.583 (0) Table blog_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0312.606 (0) Table blog_actionscheduler_groups: Total expected rows (via COUNT): 3
+0312.611 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0312.622 (0) Table blog_actionscheduler_groups: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=711) in 0.03 seconds
+0312.648 (0) Table blog_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0312.679 (0) Table blog_actionscheduler_logs: Total expected rows (via COUNT): 24
+0312.684 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0312.691 (0) Table blog_actionscheduler_logs: Rows added in this batch (next record: 24): 24 (uncompressed bytes in this segment=2782) in 0.03 seconds
+0312.713 (0) Table blog_actionscheduler_logs: finishing file(s) (2, 0.7 KB)
+0312.761 (0) Table blog_commentmeta: Total expected rows (via COUNT): 0
+0312.776 (0) Table blog_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=646) in 0.03 seconds
+0312.805 (0) Table blog_commentmeta: finishing file(s) (2, 0.4 KB)
+0312.842 (0) Table blog_comments: Total expected rows (via COUNT): 1
+0312.851 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0312.862 (0) Table blog_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1910) in 0.04 seconds
+0312.881 (0) Table blog_comments: finishing file(s) (2, 0.7 KB)
+0312.908 (0) Table blog_links: Total expected rows (via COUNT): 0
+0312.919 (0) Table blog_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1039) in 0.03 seconds
+0312.942 (0) Table blog_links: finishing file(s) (2, 0.5 KB)
+0313.198 (0) Table blog_postmeta: Total expected rows (approximate): 1208
+0313.522 (0) Table blog_postmeta: Rows added in this batch (next record: 1624): 1114 (uncompressed bytes in this segment=10195192) in 0.57 seconds
+0313.553 (0) Table blog_postmeta: finishing file(s) (2, 855.4 KB)
+0313.613 (0) Table blog_posts: Total expected rows (via COUNT): 281
+0313.618 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0313.656 (0) Table blog_posts: Rows added in this batch (next record: 300): 281 (uncompressed bytes in this segment=1681064) in 0.09 seconds
+0313.691 (0) Table blog_posts: finishing file(s) (2, 63.5 KB)
+0313.716 (0) Table blog_term_relationships: Total expected rows (approximate): 17
+0313.730 (0) Table blog_term_relationships: Rows added in this batch (next record: 100000): 17 (uncompressed bytes in this segment=931) in 0.03 seconds
+0313.751 (0) Table blog_term_relationships: finishing file(s) (2, 0.4 KB)
+0313.787 (0) Table blog_term_taxonomy: Total expected rows (via COUNT): 4
+0313.792 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0313.802 (0) Table blog_term_taxonomy: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=979) in 0.04 seconds
+0313.832 (0) Table blog_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0313.874 (0) Table blog_termmeta: Total expected rows (via COUNT): 1
+0313.878 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0313.885 (0) Table blog_termmeta: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=698) in 0.04 seconds
+0313.910 (0) Table blog_termmeta: finishing file(s) (2, 0.4 KB)
+0313.948 (0) Table blog_terms: Total expected rows (via COUNT): 4
+0313.953 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0313.959 (0) Table blog_terms: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=773) in 0.03 seconds
+0313.983 (0) Table blog_terms: finishing file(s) (2, 0.5 KB)
+0314.011 (0) Table blog_e_events: Total expected rows (via COUNT): 0
+0314.024 (0) Table blog_e_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=523) in 0.03 seconds
+0314.046 (0) Table blog_e_events: finishing file(s) (2, 0.4 KB)
+0314.086 (0) Table blog_simply_static_pages: Total expected rows (via COUNT): 0
+0314.174 (0) Table blog_simply_static_pages: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1575) in 0.12 seconds
+0314.193 (0) Table blog_simply_static_pages: finishing file(s) (2, 0.5 KB)
+0314.235 (0) Table blog_wpforms_logs: Total expected rows (via COUNT): 0
+0314.241 (0) Table blog_wpforms_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=671) in 0.03 seconds
+0314.273 (0) Table blog_wpforms_logs: finishing file(s) (2, 0.4 KB)
+0314.302 (0) Table blog_wpforms_payment_meta: Total expected rows (via COUNT): 0
+0314.311 (0) Table blog_wpforms_payment_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=702) in 0.03 seconds
+0314.340 (0) Table blog_wpforms_payment_meta: finishing file(s) (2, 0.4 KB)
+0314.370 (0) Table blog_wpforms_payments: Total expected rows (via COUNT): 0
+0314.380 (0) Table blog_wpforms_payments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1662) in 0.03 seconds
+0314.402 (0) Table blog_wpforms_payments: finishing file(s) (2, 0.6 KB)
+0314.439 (0) Table blog_wpforms_tasks_meta: Total expected rows (via COUNT): 5
+0314.444 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0314.461 (0) Table blog_wpforms_tasks_meta: Rows added in this batch (next record: 6): 5 (uncompressed bytes in this segment=992) in 0.05 seconds
+0314.488 (0) Table blog_wpforms_tasks_meta: finishing file(s) (2, 0.5 KB)
+0314.517 (0) Table blog_wpmailsmtp_debug_events: Total expected rows (via COUNT): 0
+0314.531 (0) Table blog_wpmailsmtp_debug_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=683) in 0.03 seconds
+0314.555 (0) Table blog_wpmailsmtp_debug_events: finishing file(s) (2, 0.4 KB)
+0314.590 (0) Table blog_wpmailsmtp_tasks_meta: Total expected rows (via COUNT): 1
+0314.595 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0314.610 (0) Table blog_wpmailsmtp_tasks_meta: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=718) in 0.04 seconds
+0314.632 (0) Table blog_wpmailsmtp_tasks_meta: finishing file(s) (2, 0.4 KB)
+0314.662 (0) Table blog_yoast_indexable: Total expected rows (via COUNT): 24
+0314.666 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0314.674 (0) Table blog_yoast_indexable: Rows added in this batch (next record: 25): 24 (uncompressed bytes in this segment=22590) in 0.03 seconds
+0314.703 (0) Table blog_yoast_indexable: finishing file(s) (2, 3.8 KB)
+0314.734 (0) Table blog_yoast_indexable_hierarchy: Total expected rows (approximate): 20
+0314.744 (0) Table blog_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 20 (uncompressed bytes in this segment=1125) in 0.03 seconds
+0314.765 (0) Table blog_yoast_indexable_hierarchy: finishing file(s) (2, 0.4 KB)
+0314.793 (0) Table blog_yoast_migrations: Total expected rows (via COUNT): 24
+0314.798 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0314.810 (0) Table blog_yoast_migrations: Rows added in this batch (next record: 24): 24 (uncompressed bytes in this segment=1252) in 0.03 seconds
+0314.839 (0) Table blog_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0314.868 (0) Table blog_yoast_primary_term: Total expected rows (via COUNT): 0
+0314.888 (0) Table blog_yoast_primary_term: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=841) in 0.04 seconds
+0314.907 (0) Table blog_yoast_primary_term: finishing file(s) (2, 0.4 KB)
+0314.938 (0) Table blog_yoast_seo_links: Total expected rows (via COUNT): 94
+0314.944 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0314.958 (0) Table blog_yoast_seo_links: Rows added in this batch (next record: 101): 94 (uncompressed bytes in this segment=15711) in 0.04 seconds
+0314.978 (0) Table blog_yoast_seo_links: finishing file(s) (2, 2.6 KB)
+0314.984 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\Personalblog\wordpress/wp-content/updraft/backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db.gz (line 1925, C:\xampp\htdocs\Personalblog\wordpress\wp-content\plugins\updraftplus\backup.php)
+0314.991 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_options.table.tmpr1208.gz (1/29/fopen): adding to final database dump
+0315.013 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_options.table.gz (2/29/fopen): adding to final database dump
+0315.025 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_users.table.tmpr2.gz (3/29/fopen): adding to final database dump
+0315.030 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_users.table.gz (4/29/fopen): adding to final database dump
+0315.035 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_usermeta.table.tmpr36.gz (5/29/fopen): adding to final database dump
+0315.042 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_usermeta.table.gz (6/29/fopen): adding to final database dump
+0315.047 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_actionscheduler_actions.table.tmpr25.gz (7/29/fopen): adding to final database dump
+0315.053 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_actionscheduler_actions.table.gz (8/29/fopen): adding to final database dump
+0315.061 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_actionscheduler_claims.table.tmpr0.gz (9/29/fopen): adding to final database dump
+0315.065 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_actionscheduler_claims.table.gz (10/29/fopen): adding to final database dump
+0315.069 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_actionscheduler_groups.table.tmpr4.gz (11/29/fopen): adding to final database dump
+0315.074 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_actionscheduler_groups.table.gz (12/29/fopen): adding to final database dump
+0315.079 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_actionscheduler_logs.table.tmpr25.gz (13/29/fopen): adding to final database dump
+0315.085 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_actionscheduler_logs.table.gz (14/29/fopen): adding to final database dump
+0315.096 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_commentmeta.table.tmpr0.gz (15/29/fopen): adding to final database dump
+0315.125 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_commentmeta.table.gz (16/29/fopen): adding to final database dump
+0315.130 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_comments.table.tmpr2.gz (17/29/fopen): adding to final database dump
+0315.135 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_comments.table.gz (18/29/fopen): adding to final database dump
+0315.141 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_links.table.tmpr0.gz (19/29/fopen): adding to final database dump
+0315.147 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_links.table.gz (20/29/fopen): adding to final database dump
+0315.153 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_postmeta.table.tmpr1625.gz (21/29/fopen): adding to final database dump
+0315.188 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_postmeta.table.gz (22/29/fopen): adding to final database dump
+0315.193 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_posts.table.tmpr301.gz (23/29/fopen): adding to final database dump
+0315.202 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_posts.table.gz (24/29/fopen): adding to final database dump
+0315.208 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_term_relationships.table.tmpr100001.gz (25/29/fopen): adding to final database dump
+0315.214 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_term_relationships.table.gz (26/29/fopen): adding to final database dump
+0315.220 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_term_taxonomy.table.tmpr5.gz (27/29/fopen): adding to final database dump
+0315.226 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_term_taxonomy.table.gz (28/29/fopen): adding to final database dump
+0315.231 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_termmeta.table.tmpr2.gz (29/29/fopen): adding to final database dump
+0315.236 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_termmeta.table.gz (30/29/fopen): adding to final database dump
+0315.241 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_terms.table.tmpr5.gz (31/29/fopen): adding to final database dump
+0315.247 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_terms.table.gz (32/29/fopen): adding to final database dump
+0315.252 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_e_events.table.tmpr0.gz (33/29/fopen): adding to final database dump
+0315.258 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_e_events.table.gz (34/29/fopen): adding to final database dump
+0315.263 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_simply_static_pages.table.tmpr0.gz (35/29/fopen): adding to final database dump
+0315.275 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_simply_static_pages.table.gz (36/29/fopen): adding to final database dump
+0315.281 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_wpforms_logs.table.tmpr0.gz (37/29/fopen): adding to final database dump
+0315.287 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_wpforms_logs.table.gz (38/29/fopen): adding to final database dump
+0315.293 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_wpforms_payment_meta.table.tmpr0.gz (39/29/fopen): adding to final database dump
+0315.299 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_wpforms_payment_meta.table.gz (40/29/fopen): adding to final database dump
+0315.304 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_wpforms_payments.table.tmpr0.gz (41/29/fopen): adding to final database dump
+0315.310 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_wpforms_payments.table.gz (42/29/fopen): adding to final database dump
+0315.315 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_wpforms_tasks_meta.table.tmpr7.gz (43/29/fopen): adding to final database dump
+0315.320 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_wpforms_tasks_meta.table.gz (44/29/fopen): adding to final database dump
+0315.325 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_wpmailsmtp_debug_events.table.tmpr0.gz (45/29/fopen): adding to final database dump
+0315.331 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_wpmailsmtp_debug_events.table.gz (46/29/fopen): adding to final database dump
+0315.340 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_wpmailsmtp_tasks_meta.table.tmpr2.gz (47/29/fopen): adding to final database dump
+0315.345 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_wpmailsmtp_tasks_meta.table.gz (48/29/fopen): adding to final database dump
+0315.349 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_yoast_indexable.table.tmpr26.gz (49/29/fopen): adding to final database dump
+0315.354 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_yoast_indexable.table.gz (50/29/fopen): adding to final database dump
+0315.362 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_yoast_indexable_hierarchy.table.tmpr1001.gz (51/29/fopen): adding to final database dump
+0315.367 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_yoast_indexable_hierarchy.table.gz (52/29/fopen): adding to final database dump
+0315.372 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_yoast_migrations.table.tmpr25.gz (53/29/fopen): adding to final database dump
+0315.382 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_yoast_migrations.table.gz (54/29/fopen): adding to final database dump
+0315.388 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_yoast_primary_term.table.tmpr0.gz (55/29/fopen): adding to final database dump
+0315.395 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_yoast_primary_term.table.gz (56/29/fopen): adding to final database dump
+0315.403 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_yoast_seo_links.table.tmpr102.gz (57/29/fopen): adding to final database dump
+0315.410 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db-table-blog_yoast_seo_links.table.gz (58/29/fopen): adding to final database dump
+0315.462 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db.gz: finished writing out complete database file (1467.2 KB)
+0315.525 (0) Total database tables backed up: 29 (backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db.gz, size: 1502578, sha1: 280972ba3f5be6358cfc084c86e15a73a91dcb4c, sha256: 6ed530430943fa18035ca99638ed18729caac0f34d8ddee7ace72b44c714c84b)
+0315.557 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-plugins.zip: plugins: This file has already been successfully uploaded
+0315.562 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-themes.zip: themes: This file has already been successfully uploaded
+0315.567 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-uploads.zip: uploads: This file has already been successfully uploaded
+0315.572 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-others.zip: others: This file has already been successfully uploaded
+0315.577 (0) backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db.gz: db: This file has not yet been successfully uploaded: will queue
+0315.582 (0) Saving backup history. Total backup size: 104.7 MB
+0315.597 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0315.615 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0315.620 (0) No remote despatch: user chose no remote backup service
+0315.625 (0) Recording as successfully uploaded: backup_2024-10-27-1057_Portfolio_Website_91ab52c3550b-db.gz
+0315.646 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0315.652 (0) Number of backup sets in history: 3; groups (db): 1
+0315.656 (0) Examining (for databases) backup set with group_id=0, nonce=91ab52c3550b, datestamp=1730026657 (Oct 27 2024 10:57:37)
+0315.661 (0) This backup set is the backup set just made, so will not be deleted.
+0315.661 (0) Examining (for databases) backup set with group_id=0, nonce=d93bfdb5d2ba, datestamp=1730026345 (Oct 27 2024 10:52:25)
+0315.661 (0) This backup set (1730026345) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0315.661 (0) Examining (for databases) backup set with group_id=0, nonce=e467513af073, datestamp=1730025931 (Oct 27 2024 10:45:31)
+0315.661 (0) This backup set (1730025931) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0315.661 (0) Number of backup sets in history: 3; groups (files): 1
+0315.665 (0) Examining (for files) backup set with nonce=91ab52c3550b, datestamp=1730026657 (Oct 27 2024 10:57:37)
+0315.666 (0) This backup set is the backup set just made, so will not be deleted.
+0315.670 (0) This backup set is the backup set just made, so will not be deleted.
+0315.670 (0) This backup set is the backup set just made, so will not be deleted.
+0315.671 (0) This backup set is the backup set just made, so will not be deleted.
+0315.671 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0315.675 (0) Examining (for files) backup set with nonce=d93bfdb5d2ba, datestamp=1730026345 (Oct 27 2024 10:52:25)
+0315.675 (0) This backup set (1730026345) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0315.675 (0) This backup set (1730026345) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0315.675 (0) This backup set (1730026345) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0315.675 (0) This backup set (1730026345) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0315.675 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0315.676 (0) Examining (for files) backup set with nonce=e467513af073, datestamp=1730025931 (Oct 27 2024 10:45:31)
+0315.676 (0) This backup set (1730025931) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0315.676 (0) This backup set (1730025931) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0315.676 (0) This backup set (1730025931) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0315.676 (0) This backup set (1730025931) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0315.676 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0315.676 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0315.688 (0) Resume backup (91ab52c3550b, 0): finish run
+0315.698 (0) Decremented the semaphore (fd) by 1
+0315.703 (0) Semaphore (fd, blog_options) still locked (0)
+0315.708 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0315.730 (0) Fetching RSS news feed
+0315.771 (0) Fetched RSS news feed; result is a: SimplePie
+0315.785 (0) Sending email ('Files and database (Full backup)') report (attachments: 0, size: 0 KB) to: samra...
+0317.161 (0) The backup succeeded and is now complete
