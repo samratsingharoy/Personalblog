@@ -11,7 +11,7 @@
 Open your project folder.
 If there’s already a README.md file, open it. If not, create one in the root of the project with:
 
-touch README.md
+*touch README.md*
 
 
 # Step 2: Setup Instructions
@@ -36,7 +36,7 @@ Homepage:- It includes About,Portfolio,Service Provided,Contact and Resume.
 Blog:- Feature Post, Blog Post,Comments enabled.
 Contact Form:- Validated form with email notifications.
 
-                                                                                      ***************End*************
+                                                                    
 
 
 
