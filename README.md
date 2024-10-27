@@ -14,14 +14,29 @@ If there’s already a README.md file, open it. If not, create one in the root o
 touch README.md
 
 
-# Step 2: Add Setup Instructions
+# Step 2: Setup Instructions
 Set up a local WordPress and Xampp installation
 Connect To the phpmyadmin database of name "personalblog"
 Download the file and put it in htdocs and unzip it
 
-# Step 3: List Required Plugins
+# Step 3:Required Plugins and Theme
 List the Plugins: 
+1. Elementor Pro
+2. The Post Grid
+3. WP Mail SMTP
+4. Yoast SEO
+5. WPForms Lite
+6. UpdraftPlus
 
+Theme Used:-
+1.Astra Theme
+
+# Step 4: Usage Instructions
+Homepage:- It includes About,Portfolio,Service Provided,Contact and Resume.
+Blog:- Feature Post, Blog Post,Comments enabled.
+Contact Form:- Validated form with email notifications.
+
+                                                                                      ***************End*************
 
 
 
